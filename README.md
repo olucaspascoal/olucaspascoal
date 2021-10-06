@@ -1,5 +1,3 @@
-## Olá, bem vindo👋
-
 <!--
 **olucaspascoal/olucaspascoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,18 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center"> Olá, bem vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
+<p align="center"> 
+    Eu sou  <b> Lucas Pascoal </b>, estudante de Ciências Da Computação, apaixonado por tecnologia :computer: , estagiário de desenvolvimento WEB e entusiasta de Python 
+    <img align="center" src="https://img.icons8.com/color/20/python.png">
+</p>
 
-
-<!--
-<a href="https://linkedin.com/in/olucaspascoal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="olucaspascoal" height="20" width="20" /> LinkedIn </a> <br>
-    <a href="https://stackoverflow.com/olucaspascoal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="olucaspascoal" height="20" width="20" /> StackOverflow</a> <br>
-    <a href="https://instagram.com/olucaspascoal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="olucaspascoal" height="20" width="20" /> Instagram </a> <br>
--->
-Eu sou Lucas Pascoal, estudante de Ciências Da Computação, apaixonado por tecnologia :computer: , estagiário no NUCAP - Núcleo De Computação Aplicada e entusiasta de Python ![Python](https://img.icons8.com/color/20/python.png)
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olucaspascoal&show_icons=true&theme=dark" alt="olucaspascoal"/> 
 </p> 
 
-   [![Linkein Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olucaspascoal)](https://www.linkedin.com/in/olucaspascoal)
--->
+<p align="center">
+    <a href="https://twitter.com/olucaspascoal" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
+    </a>
+    <a href="https://linkedin.com/in/olucaspascoal" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+    </a>
+    <a href="https://instagram.com/olucaspascoal" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="20" width="20" />
+    </a>
+    <a href="#" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sitepoint.svg" height="20" width="20" />
+    </a>
+</p>
