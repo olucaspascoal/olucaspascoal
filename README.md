@@ -33,6 +33,9 @@ Here are some ideas to get you started:
     <a href="https://instagram.com/olucaspascoal" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="20" width="20" />
     </a>
+    <a href="https://www.behance.net/lucaspascoal" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" height="20" width="20" />
+    </a>
     <a href="#" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sitepoint.svg" height="20" width="20" />
     </a>
