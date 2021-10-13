@@ -24,19 +24,19 @@ Here are some ideas to get you started:
 </p> 
 
 <p align="center">
-    <a href="https://twitter.com/olucaspascoal" target="blank">
+    <a href="https://twitter.com/olucaspascoal" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
     </a>
-    <a href="https://linkedin.com/in/olucaspascoal" target="blank">
+    <a href="https://linkedin.com/in/olucaspascoal" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
-    <a href="https://instagram.com/olucaspascoal" target="blank">
+    <a href="https://instagram.com/olucaspascoal" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="20" width="20" />
     </a>
-    <a href="https://www.behance.net/lucaspascoal" target="blank">
+    <a href="https://www.behance.net/lucaspascoal" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" height="20" width="20" />
     </a>
-    <a href="#" target="blank">
+    <a href="#" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sitepoint.svg" height="20" width="20" />
     </a>
 </p>
