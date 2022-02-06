@@ -13,30 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Olá, bem vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
-<p align="center"> 
-    Eu sou  <b> Lucas Pascoal </b>, estudante de Ciências Da Computação, apaixonado por tecnologia :computer: , estagiário de desenvolvimento WEB e entusiasta de Python 
-    <img align="center" src="https://img.icons8.com/color/20/python.png">
-</p>
+<h1 align="left"> Olá, bem vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olucaspascoal&show_icons=true&theme=dark" alt="olucaspascoal"/> 
-</p> 
+<p> :earth_africa: Eu sou o <b> Lucas Pascoal </b>, desenvolvedor <b> frontend </b>, UX/UI designer e estagiário de <b> transformação digital</b>; </p>
+<p> :office: Estudante de <b> ciências da computação </b> e apaixonado por tecnologia;</p>
+<p> :books: Me aprimorando em <b>Angular</b> e TypeScript.</p>
+<p> :computer: Site: <a href="https://olucaspascoal.com"> olucaspascoal.com </a> </p>
 
-<p align="center">
-    <a href="https://twitter.com/olucaspascoal" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
-    </a>
+## :link: &nbsp;Redes sociais
+
+<p align="left">
     <a href="https://linkedin.com/in/olucaspascoal" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+      <img align="center" src="https://img.shields.io/badge/olucaspascoal-151515?style=flat&logo=linkedin" alt="Linkedin"/>
     </a>
     <a href="https://instagram.com/olucaspascoal" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="20" width="20" />
+     <img align="center" src="https://img.shields.io/badge/olucaspascoal-151515?style=flat&logo=instagram" alt="instagram"/>
+    </a>
+    <a href="https://www.frontendmentor.io/profile/olucaspascoal" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/olucaspascoal-151515?style=flat&logo=frontendmentor" alt="Frontend Mentor"/>
     </a>
     <a href="https://www.behance.net/lucaspascoal" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" height="20" width="20" />
+      <img align="center" src="https://img.shields.io/badge/lucaspascoal-151515?style=flat&logo=behance" alt="codepen"/>
     </a>
-    <a href="#" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sitepoint.svg" height="20" width="20" />
+    <a href="https://twitter.com/olucaspascoal" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/olucaspascoal-151515?style=flat&logo=twitter" alt="twitter"/>  
     </a>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=olucaspascoal&show_icons=true&theme=dark" alt="olucaspascoal github stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucaspascoal&layout=compact&theme=dark" alt="olucaspascoal most languages"/> -->
+</p> 
