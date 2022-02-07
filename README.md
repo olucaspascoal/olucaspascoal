@@ -35,8 +35,8 @@ Here are some ideas to get you started:
     <a href="https://www.behance.net/lucaspascoal" target="_blank">
       <img align="center" src="https://img.shields.io/badge/lucaspascoal-151515?style=flat&logo=behance" alt="codepen"/>
     </a>
-    <a href="https://twitter.com/olucaspascoal" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/olucaspascoal-151515?style=flat&logo=twitter" alt="twitter"/>  
+    <a href="https://www.codewars.com/users/olucaspascoal" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/olucaspascoal-151515?style=flat&logo=codewars" alt="twitter"/>  
     </a>
 </p>
 
