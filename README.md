@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="left"> Olá, bem vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 
-<p> :earth_africa: Eu sou o <b> Lucas Pascoal </b>, desenvolvedor <b> frontend </b>, UX/UI designer e estagiário de <b> transformação digital</b>; </p>
-<p> :office: Estudante de <b> ciências da computação </b> e apaixonado por tecnologia;</p>
+<p> :earth_africa: Eu sou o <b> Lucas Pascoal </b>, desenvolvedor <b> frontend pleno </b> e UX/UI designer </p>
+<p> :office: Formado de <b> ciências da computação </b> e apaixonado por tecnologia;</p>
 <p> :books: Me aprimorando em <b>Angular</b> e TypeScript.</p>
 <p> :computer: Site: <a href="https://olucaspascoal.com"> olucaspascoal.com </a> </p>
 
